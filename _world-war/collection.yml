@@ -1,4 +1,5 @@
 collections:
   world-war:
     output: true
-    order: []
+    order:
+      - First World War.md
