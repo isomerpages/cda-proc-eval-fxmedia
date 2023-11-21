@@ -2,4 +2,5 @@ collections:
   world-war:
     output: true
     order:
+      - The Second World War.md
       - First World War.md
