@@ -1,0 +1,39 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Example Page
+    url: /example-page/
+  - title: Example Folder
+    collection: test-folder
+  - title: New resource room
+    resource_room: true
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New menu group
+    url: /permalink
+    sublinks: []
+  - title: New folder
+    collection: example-folder
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink
+  - title: New single page
+    url: /permalink

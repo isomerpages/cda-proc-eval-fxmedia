@@ -1,0 +1,5 @@
+collections:
+  test-folder:
+    output: true
+    order:
+      - Test Folder Level 1/.keep
